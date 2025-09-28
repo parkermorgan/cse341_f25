@@ -1,0 +1,23 @@
+{
+    "contact": {
+        "firstName": "Shelby",
+        "lastName": "Morgan",
+        "email": "thisismywife@test.com",
+        "favoriteColor": "Green",
+        "birthday": "04/01/1995"
+    },
+    "contact2": {
+        "firstName": "Harry",
+        "lastName": "Potter",
+        "email": "theboywholived@hogwarts.com",
+        "favoriteColor": "Blue",
+        "birthday": "07/31/1980"
+    },
+    "contact3": {
+        "firstName": "John",
+        "lastName": "Smith",
+        "email": "averagedude@test.com",
+        "favoriteColor": "Red",
+        "birthday": "10/31/2003"
+    }
+}
