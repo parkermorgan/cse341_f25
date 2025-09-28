@@ -22,6 +22,10 @@ GET https://cse341-f25.onrender.com HTTP/1.1
 
 ###
 
+GET https://cse341-f25.onrender.com/contacts HTTP/1.1
+
+###
+
 GET https://cse341-f25.onrender.com/contacts/68d8a8f7c81456c77ee1fb5c HTTP/1.1
 
 ###
