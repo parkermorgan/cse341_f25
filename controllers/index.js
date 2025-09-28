@@ -1,6 +1,6 @@
-const getPerson = (req, res, next) => {
-    res.json('Shelby Morgan');
-};
+const express = require('express');
+const router = express.Router();
 
+router.use('/contacts', require('./contacts'))
 
-module.exports = { getPerson };
+module.exports = router;
